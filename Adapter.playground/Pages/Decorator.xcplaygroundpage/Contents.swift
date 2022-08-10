@@ -4,6 +4,12 @@
 /*:
   # Decorator
  
+ The decorator pattern dynamically modifies the behavior of a core object without changing its existing class definition.
+ 
+ 
+ ![decorator](decorator2.png)
+ 
+ 
  Attaches new responsabilities to objects.
  Relies on object composition instead of subclassing.
  
