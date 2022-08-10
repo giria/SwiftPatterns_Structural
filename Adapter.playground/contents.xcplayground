@@ -4,6 +4,7 @@
         <page name='Adapter'/>
         <page name='Bridge'/>
         <page name='Composite'/>
-        <page name='Decorator.xcplaygroundpage'/>
+        <page name='Decorator'/>
+        <page name='Facade.xcplaygroundpage'/>
     </pages>
 </playground>
