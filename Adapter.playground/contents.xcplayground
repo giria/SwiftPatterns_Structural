@@ -3,5 +3,7 @@
     <pages>
         <page name='Adapter'/>
         <page name='Bridge'/>
+        <page name='Composite'/>
+        <page name='Decorator.xcplaygroundpage'/>
     </pages>
 </playground>
